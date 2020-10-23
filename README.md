@@ -5,7 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.7.1
+* Rails 5.2.3 --> Pb sur mon ordi =6.0
 
 * System dependencies
 
